@@ -45,7 +45,7 @@ The function should declare that it returns a number.
 
 > Determination would take 0.5683628571428571 days to get to the Moon.
 
-Part 4 - Create a Spacecraft Class
+## Part 4 - Create a Spacecraft Class
 
 Organize `getDaysToLocation` and the variables for name, speed, and miles per kilometer by moving them into a class.
 
@@ -77,7 +77,7 @@ let spaceShuttle = new Spacecraft('Determination', 17500);
 
 > Determination would take 0.5683628571428571 days to get to the Moon.
 
-Part 5 - Export and Import the SpaceLocation Class
+## Part 5 - Export and Import the SpaceLocation Class
 
 1. Add the function `printDaysToLocation` to the `Spacecraft` class.
 * Notice that it takes a parameter of type SpaceLocation.
