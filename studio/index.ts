@@ -3,6 +3,7 @@
 // * Import the three classes into this file.
 
 import { Astronaut } from './Astronaut';
+import { Cargo } from './Cargo';
 
 
 let falcon9: Rocket = new Rocket('Falcon 9', 7500);
